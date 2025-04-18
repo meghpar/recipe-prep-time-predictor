@@ -147,7 +147,7 @@ This box plot reveals that recipes with higher protein levels (PDV) may have sli
  ## 3️⃣ Interesting Aggregates
 ### Distribution of Average Prepartion Time based on Recipe by Sodium Level
  <iframe
- src="ishealthy_aggregate.html"
+ src="assets/ishealthy_aggregate.html"
  width="800"
  height="600"
  frameborder="0"
@@ -156,7 +156,7 @@ This box plot reveals that recipes with higher protein levels (PDV) may have sli
 
 ### Distribution of Healthy Recipes and Average Preperation Time
 <iframe
- src="sodium_aggregate.html"
+ src="assets/sodium_aggregate.html"
  width="800"
  height="600"
  frameborder="0"
