@@ -118,7 +118,7 @@ The columns that are relevant to our research include:
 ## 1️⃣ Univariate Analysis
 ### Distribution of Calories
 <!-- -->
-<iframe src="assets/uni_calories.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="assets/uni_calories.html" width="800" height="400" frameborder="0"></iframe>
 <!-- -->
 This plot is a histogram demonstrating the distribution of calories. We can see that the curve is right skewed, with the majority of recipes falling under the 200 - 400 calorie range, then trailing off as the number of calories increases. It is important to note that there are a few outliers in the 3000 and above range as well.
 
