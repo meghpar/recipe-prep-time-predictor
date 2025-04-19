@@ -144,7 +144,7 @@ The columns that are relevant to our research include:
  ></iframe>
 This box plot reveals that recipes with higher protein levels (PDV) may have slightly longer cooking times, as shown by the upward trend in median prep time across protein groups. This suggests that "healthier" high-protein recipes typically take more time to prepare than lower-protein options, helping answer our question about how recipe healthiness relates to cooking duration.
 
-## 3️⃣ Interesting Aggregates
+## 3️⃣ Interesting Aggregates  
 ### Distribution of Average Prepartion Time based on Recipe by Sodium Level
  <iframe
  src="assets/ishealthy_aggregate.html"
