@@ -134,7 +134,7 @@ This box plot reveals that recipes with higher protein levels (PDV) may have sli
  <iframe
  src="assets/ishealthy_aggregate.html"
  width="800"
- height="600"
+ height="400"
  frameborder="0"
  ></iframe>
  The "healthy" tag plot actually shows that recipes marked healthy have shorter average prep times compared to non-healthy recipes. While this isn't what we expected there are other factors that could explain this. Unhealthy recipes may be family-sized portions (casseroles, baked goods) while healthy ones may be single size portions.
