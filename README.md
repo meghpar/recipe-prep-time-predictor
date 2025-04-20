@@ -123,7 +123,7 @@ This plot is a histogram demonstrating the distribution of calories. We can see 
 ### Distribution of Preparation Times
  <iframe
  src="assets/uni_minutes.html"
- width="800"
+ width="500"
  height="600"
  frameborder="0"
  ></iframe>
