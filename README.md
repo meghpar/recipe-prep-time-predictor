@@ -121,13 +121,8 @@ The columns that are relevant to our research include:
 This plot is a histogram demonstrating the distribution of calories. We can see that the curve is right skewed, with the majority of recipes falling under the 200 - 400 calorie range, then trailing off as the number of calories increases. It is important to note that there are a few outliers in the 3000 and above range as well.
 
 ### Distribution of Preparation Times
- <iframe
- src="assets/uni_minutes.html"
- width="500"
- height="600"
- frameborder="0"
- ></iframe>
- This plot is also a histogram showing the univariate distribution of the 'minutes' column. This curve is heavily right skewed, where the vast majority of recipes take under 49 minutes to make, with minimal to none taking above 550 minutes
+<iframe src="assets/uni_minutes.html" width="500" height="400" frameborder="0"></iframe>
+This plot is also a histogram showing the univariate distribution of the 'minutes' column. This curve is heavily right skewed, where the vast majority of recipes take under 49 minutes to make, with minimal to none taking above 550 minutes
 
 ## 2️⃣ Bivariate Analysis
 ### Distribution of Preperation Times by Protein Level
