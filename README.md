@@ -123,41 +123,29 @@ The columns that are relevant to our research include:
 This plot is a histogram demonstrating the distribution of calories. We can see that the curve is right skewed, with the majority of recipes falling under the 200 - 400 calorie range, then trailing off as the number of calories increases. It is important to note that there are a few outliers in the 3000 and above range as well.
 
 ### Distribution of Preparation Times
- <iframe
- src="assets/uni_minutes.html"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
- This plot is also a histogram showing the univariate distribution of the 'minutes' column. This curve is heavily right skewed, where the vast majority of recipes take under 49 minutes to make, with minimal to none taking above 550 minutes
+<!-- -->
+<iframe src="assets/uni_minutes.html" width="800" height="500" frameborder="0" ></iframe>
+<!-- -->
+This plot is also a histogram showing the univariate distribution of the 'minutes' column. This curve is heavily right skewed, where the vast majority of recipes take under 49 minutes to make, with minimal to none taking above 550 minutes
 
 ## 2️⃣ Bivariate Analysis
 ### Distribution of Preperation Times by Protein Level
-<iframe
- src="assets/bi_box.html"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
+<!-- -->
+<iframe src="assets/bi_box.html" width="800" height="500" frameborder="0"><iframe>
+<!-- -->
 This box plot reveals that recipes with higher protein levels (PDV) may have slightly longer cooking times, as shown by the upward trend in median prep time across protein groups. This suggests that "healthier" high-protein recipes typically take more time to prepare than lower-protein options, helping answer our question about how recipe healthiness relates to cooking duration.
 
 ## 3️⃣ Interesting Aggregates  
 ### Distribution of Average Prepartion Time based on Recipe by Sodium Level
- <iframe
- src="assets/ishealthy_aggregate.html"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
- The "healthy" tag plot actually shows that recipes marked healthy have shorter average prep times compared to non-healthy recipes. While this isn't what we expected there are other factors that could explain this. Unhealthy recipes may be family-sized portions (casseroles, baked goods) while healthy ones may be single size portions.
+<!-- -->
+<iframe src="assets/ishealthy_aggregate.html" width="800" height="500" frameborder="0"></iframe>
+<!-- -->
+The "healthy" tag plot actually shows that recipes marked healthy have shorter average prep times compared to non-healthy recipes. While this isn't what we expected there are other factors that could explain this. Unhealthy recipes may be family-sized portions (casseroles, baked goods) while healthy ones may be single size portions.
 
 ### Distribution of Healthy Recipes and Average Preperation Time
-<iframe
- src="assets/sodium_aggregate.html"
- width="800"
- height="600"
- frameborder="0"
- ></iframe>
+<!-- -->
+<iframe src="assets/sodium_aggregate.html" width="800" height="500" frameborder="0"></iframe>
+<!-- -->
 The lower sodium level recipes have shorter average prep times compared to higher sodium level recipes. This could also be explained by other factors such as scale of recipes. Restaurant meals take awhile to make, are high in sodium, and produce high volumes of food.
 
 ## 4️⃣ Imputation
