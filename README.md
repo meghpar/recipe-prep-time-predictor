@@ -1,5 +1,3 @@
-## Meals in Minutes: Predicting Prep Time with Nutritional Insights
-
 **Name(s):** Meghana Paruchuri and Rishitha Talluri
 
 ## INTRODUCTION
