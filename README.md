@@ -1,6 +1,7 @@
-Meals in Minutes: Predicting Prep Time with Nutritional Insights
-
 **Name(s):** Meghana Paruchuri and Rishitha Talluri
+
+# Meals in Minutes: Predicting Prep Time with Nutritional Insights
+
 
 ## INTRODUCTION
 For this project, we will be working with the recipe and ratings dataset that describes different foods to make and related information. 
